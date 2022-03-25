@@ -1,0 +1,34 @@
+{
+    "feedback": [
+        {
+            "id": 1,
+            "rating": 5,
+            "text": "First text"
+        },
+        {
+            "id": 2,
+            "rating": 7,
+            "text": "Second text"
+        },
+        {
+            "id": 3,
+            "rating": 8,
+            "text": "Third text"
+        },
+        {
+            "id": 4,
+            "rating": 2,
+            "text": "Fourth text"
+        },
+        {
+            "id": 5,
+            "rating": 6,
+            "text": "Fifth text"
+        },
+        {
+            "id": 6,
+            "rating": 8,
+            "text": "Sixth text"
+        }
+    ]
+}
